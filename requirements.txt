@@ -9,7 +9,7 @@ opencv-python==4.0.0.21
 pandas==0.22.0
 pandocfilters==1.4.2
 Pillow==6.0.0
-prompt-toolkit==1.0.15
+prompt-toolkit==2.0.9
 protobuf==3.7.1
 requests>=2.20.0
 requests-unixsocket==0.1.5
